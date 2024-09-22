@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar Sahani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="font-size: 2.5em; color: #4A90E2;">Hi 👋, I'm Sumit Kumar Sahani</h1>
+<h3 align="center" style="color: #50E3C2;">A passionate frontend developer from India</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sumitsahani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,34 +13,38 @@
 
 ---
 
-### 🔭 I’m currently working on
-**Mere Mann Ka Dabba**
+### 🔭 I’m currently working on:
+<div align="center" style="font-size: 1.2em; color: #F39C12;">
+    **Mere Mann Ka Dabba**
+</div>
 
-### 🌱 I’m currently learning
-**React, JavaScript, Redux, & TypeScript**
+### 🌱 I’m currently learning:
+<div align="center" style="font-size: 1.2em; color: #E74C3C;">
+    **React, JavaScript, Redux, & TypeScript**
+</div>
 
-### 👨‍💻 Projects
-All of my projects are available at [My Portfolio](https://zen-euclid-538d4c.netlify.app/)
+### 👨‍💻 Projects:
+- All of my projects are available at [My Portfolio](https://zen-euclid-538d4c.netlify.app/)
 
-### 💬 Ask me about
-**React, JavaScript**
+### 💬 Ask me about:
+- **React, JavaScript**
 
-### 📫 How to reach me
-**Email:** [sumitsahani.1855@gmail.com](mailto:sumitsahani.1855@gmail.com)
+### 📫 How to reach me:
+- **Email:** [sumitsahani.1855@gmail.com](mailto:sumitsahani.1855@gmail.com)
 
-### 📄 Know about my experiences
-[View My Resume](https://zen-euclid-538d4c.netlify.app/)
+### 📄 Know about my experiences:
+- [View My Resume](https://zen-euclid-538d4c.netlify.app/)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #8E44AD;">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/sumit-sahani139/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #2980B9;">Languages and Tools:</h3>
 <p align="left">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
@@ -94,14 +98,14 @@ All of my projects are available at [My Portfolio](https://zen-euclid-538d4c.net
 
 ---
 
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsahani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sumitsahani&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsahani&" alt="Streak Stats" />
-</p>
+</div>
+
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsahani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
