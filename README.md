@@ -1,5 +1,8 @@
-<h1 align="center" style="font-size: 3em; color: #3498DB;">Hi 👋, I'm <span style="color: #E74C3C;">Sumit Kumar Sahani</span></h1>
-<h3 align="center" style="color: #2ECC71;">A passionate frontend developer from India</h3>
+  <h3 id="hi-there">Hi there 👋</h3>
+<p><a href="https://omkarpathak.in"><img src="https://i.imgur.com/HcaHoth.png" alt="img"></a></p>
+<hr>
+<p>Credits: <a href="https://github.com/OmkarPathak">Sumit Kumar Sahani</a></p>
+<p>Last Edited on: 24/09/2024</p> 
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sumitsahani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
